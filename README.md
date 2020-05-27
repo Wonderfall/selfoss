@@ -1,4 +1,4 @@
-# hardware/selfoss
+# wonderfall/selfoss
 
 ![selfoss](https://i.imgur.com/8hJyBgk.png "selfoss")
 
@@ -13,6 +13,7 @@ The new multipurpose rss reader, live stream, mashup, aggregation web applicatio
 - Latest Selfoss version (2.18)
 - SQLite driver
 - With Nginx and PHP7
+- **Keep it simple, stupid**
 
 ### Build-time variables
 
