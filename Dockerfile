@@ -1,4 +1,4 @@
-FROM alpine:3.11
+FROM alpine:3.12
 
 LABEL description "Multipurpose rss reader, live stream, mashup, aggregation web application" \
       maintainer="Wonderfall <wonderfall@protonmail.com>"
